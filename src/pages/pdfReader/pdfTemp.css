@@ -1,0 +1,12 @@
+.pdfHead {
+  text-align: center;
+  font-size: 25px;
+  padding-top: 16px;
+}
+.conent {
+  text-align: center;
+  padding-bottom: 16px;
+}
+.pdfBody {
+  padding: 3rem;
+}
